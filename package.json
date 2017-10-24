@@ -1,0 +1,14 @@
+{
+  "name": "arena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "beam-client-node": "^0.13.0"
+  }
+}
